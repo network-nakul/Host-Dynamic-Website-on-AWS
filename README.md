@@ -48,3 +48,19 @@ This project is a simple dynamic To-Do List web application built with **HTML**,
 ## Folder Structure
 
 ****
+
+
+## Technologies Used
+
+- **HTML, CSS, JavaScript** for the frontend
+- **PHP** for backend logic
+- **Apache** as the web server
+- **AWS EC2** for cloud hosting
+
+## How to Use
+
+1. **Add a task**: Type in a new task and click "Add Task."
+2. **Delete a task**: Click on the "Delete" button next to each task to remove it from the list.
+
+
+
