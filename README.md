@@ -45,10 +45,6 @@ This project is a simple dynamic To-Do List web application built with **HTML**,
     http://<your-ec2-public-dns>
     ```
 
-## Folder Structure
-
-****
-
 
 ## Technologies Used
 
